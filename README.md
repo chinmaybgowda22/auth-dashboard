@@ -50,7 +50,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/auth-dashboard.git
+git clone https://github.com/chinmaybgowda22/auth-dashboard.git
 
 cd auth-dashboard
 npm install
